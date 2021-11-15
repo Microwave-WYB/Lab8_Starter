@@ -5,3 +5,5 @@
 2. No
 3. No. A "message" feature is too complicated and involves many functions. Unit tests focus on testing small scale functions with more specific functianlities.
 4. Yes. "max message length" feature is a very specific, small scale function so can be tested with unit test.
+
+![picture 1](assets/images/test_results.png)  
